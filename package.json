@@ -2,7 +2,7 @@
   "author": "Dmitrii Kopenkin",
   "name": "steam-2fa-cli",
   "description": "Steam 2FA Code generation cli",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "repository": {
     "url": "https://github.com/kopenkinda/steam-2fa-cli"
   },
