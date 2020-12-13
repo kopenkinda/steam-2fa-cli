@@ -2,9 +2,9 @@
   "author": "Dmitrii Kopenkin",
   "name": "steam-2fa-cli",
   "description": "Steam 2FA Code generation cli",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "repository": {
-    "url": ""
+    "url": "https://github.com/kopenkinda/steam-2fa-cli"
   },
   "main": "./lib/main.js",
   "bin": {
@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "mkdirp": "^1.0.4",
-    "steam-totp": "2.1.1",
-    "touch": "^3.1.0"
+    "touch": "^3.1.0",
+    "steam-totp": "2.1.1"
   },
   "engines": {
     "node": "*"
